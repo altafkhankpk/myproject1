@@ -1,0 +1,15 @@
+.card img{
+    max-height: 150px;
+    width: 100px ;
+    margin: auto;
+    
+}
+
+.card{
+    border: 2px solid;
+    text-align: center;
+    /* background-color: red; */
+    width: 250px !important;
+    height: 300px !important;
+}
+

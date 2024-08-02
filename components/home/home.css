@@ -1,0 +1,18 @@
+#adsContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    row-gap: 10px;
+    
+}
+
+#adsContainer p{
+    font-size: 0.6em !important;
+}
+
+#adsContainer > div{
+    height: 300px;
+   
+    
+    /* border: 1px solid red; */
+}

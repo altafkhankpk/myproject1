@@ -1,0 +1,18 @@
+.text-reset{
+    background-color: rgb(36, 218, 124);
+   
+    border-radius: 20%;
+    color: white;
+}
+
+span{
+    background-color: brown;
+    
+    color: white;
+    border-radius: 100px;
+    
+    
+}
+h6{
+   color: red;
+}

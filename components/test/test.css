@@ -1,0 +1,11 @@
+.card1{
+    width: 250px;
+    height: 250px;
+    border: 1px solid grey;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
+
